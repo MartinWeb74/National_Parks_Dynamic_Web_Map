@@ -1,0 +1,51 @@
+place,lat,lon
+Yellowstone National Park,44.427895,-110.588379
+Rothrock State Forest,40.720585,-77.826965
+Zion National Park,37.317207,-113.022537
+Yosemite National Park,37.865101,-119.538330
+Yellowstone National Park,44.429764,-110.584663
+Stanislaus National Forest,38.235195,-120.066483
+Haleakalā National Park,20.701283,-156.173325
+Malibu Creek State Park,34.105156,-118.731316
+Manti-La Sal National Forest,39.187050,-111.379890
+Cherry Creek State Park,39.639973,-104.831863
+Kissimmee Prairie Preserve State Park,27.612417,-81.053383
+Garden of Gods,38.873840,-104.886665
+Petrified Forest National Park,34.909988,-109.806793
+Chattahoochee National Forest,34.765972,-84.143517
+Fort Berthold Indian Reservation,47.683880,-102.354126
+Chattahoochee National Forest,34.765972,-84.143517
+Little Sandy National Wildlife Refuge,32.590797,-95.273666
+Siuslaw National Forest,44.358715,-123.829994
+Kings Canyon National Park,36.887856,-118.555145
+Ruffner Mountain Nature Center,33.558990,-86.707016
+Yellowstone National Park,44.427284,-110.584389
+Kings Mountain State Park,35.130459,-81.345444
+North Maine Woods,46.867702,-69.480286
+Honolulu Watershed Forest Preserve,21.363251,-157.781265
+Oleta River State Park,25.921614,-80.144402
+Grant Park,41.876465,-87.621887
+Wisconsin Interstate State Park,45.398449,-92.645126
+Bridge Creek Wildlife Area,45.043449,-118.949318
+Willamette National Forest,44.060471,-122.091736
+Golden Gate Canyon State Park,39.814339,-105.395622
+William F Hayden Green Mountain Park,39.702827,-105.175636
+Great Smoky Mountains National Park,35.593670,-83.824997
+Lantz Farm and Nature Preserve,39.516754,-80.649948
+Myakka State Forest,26.988386,-82.286552
+Lake Eola Park,28.545021,-81.372856
+Gulf State Park,30.262793,-87.636337
+Egypt Valley Wildlife Area,40.115486,-81.114090
+Kennesaw Mountain National Battlefield Park,33.976376,-84.579163
+Shenandoah National Park,38.700516,-78.292694
+Ricketts Glen State Park,41.339184,-76.290436
+El Dorado State Park,37.866047,-96.756935
+Polihale State Park,22.079357,-159.761642
+Lake Wateree State Recreation Area,34.375179,-80.863495
+Kekaha Kai State Park,19.788027,-156.023453
+National Bison Range,47.342545,-114.209747
+Castlewood Canyon State Park,39.319424,-104.730606
+Hillman State Park,40.453739,-80.400864
+Little Big Econ State Forest,28.673721,-81.104507
+Eagle Bluffs Conservation Area,38.848934,-92.431839
+Mount Mitchell State Park,35.768803,-82.306137
